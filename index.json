@@ -174,6 +174,16 @@
         "duration": "10 hrs",
         "domains": ["Android Development", "User Interface", "User Experience"],
         "link": "https://www.udacity.com/course/android-basics-user-interface--ud834"
-     }
+     },
+{
+        "id": 20,
+        "courseTopic": "AWS cloud",
+        "courseTitle": "AWS Tutorial for beginners in Hindi | AWS Full Course Hindi - Learn AWS In 5 Hours | Great Learning",
+        "providedBy": "Great Learning",
+        "platform":"Youtube",
+        "duration": "5hr",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/dDN-t69sa3U"
+    }
 
 ]
