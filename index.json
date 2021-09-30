@@ -153,6 +153,16 @@
         "platform":"Udemy",
         "duration": "18.5 hrs",
         "domains": ["", "", ""],
+        "link": "https://youtu.be/t_ispmWmdjY"
+     },
+     {
+        "id": 18,
+        "courseTopic": "Augmented Reality",
+        "courseTitle": "Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
+        "providedBy": "Dinesh Tavasalkar",
+        "platform":"Udemy",
+        "duration": "18 hrs",
+        "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
      }
 ]
