@@ -64,7 +64,6 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
     },
-    
      {
         "id": 7,
         "courseTopic": "Kotlin",
@@ -74,5 +73,15 @@
         "duration": "4hr",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+    },
+     {
+        "id": 8,
+        "courseTopic": "TypeScript",
+        "courseTitle": "TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
+        "providedBy": "Academind",
+        "platform":"Youtube",
+        "duration": "3.5hr",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/BwuLxPH8IDs"
     }
 ]
