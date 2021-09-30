@@ -165,8 +165,18 @@
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
      },
-  {
+{
         "id": 19,
+        "courseTopic": "R programming",
+        "courseTitle": "R is a programming language and software environment for statistical analysis",
+        "providedBy": "Robert Gentleman and Ross Ihaka",
+        "platform":"Tutorial",
+        "duration": "6 hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.tutorialspoint.com/r/index.htm"
+     },
+  {
+        "id": 20,
         "courseTopic": "User Interface in Android",
         "courseTitle": "Android Basics user interface ",
         "providedBy": "udacity",
@@ -176,7 +186,7 @@
         "link": "https://www.udacity.com/course/android-basics-user-interface--ud834"
      },
 {
-        "id": 20,
+        "id": 21,
         "courseTopic": "AWS cloud",
         "courseTitle": "AWS Tutorial for beginners in Hindi | AWS Full Course Hindi - Learn AWS In 5 Hours | Great Learning",
         "providedBy": "Great Learning",
@@ -185,5 +195,4 @@
         "domains": ["", "", ""],
         "link": "https://youtu.be/dDN-t69sa3U"
     }
-
 ]
