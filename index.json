@@ -133,7 +133,7 @@
         "duration": "4 hrs",
         "domains": ["", "", ""],
         "link": "https://youtu.be/vLnPwxZdW4Y"
-     }
+     },
     
     {
         "id": 16,
@@ -144,6 +144,16 @@
         "duration": "4 hrs",
         "domains": ["", "", ""],
         "link": "https://youtu.be/hKB-YGF14SY"
+     },
+    {
+        "id": 17,
+        "courseTopic": "Ruby",
+        "courseTitle": "Ruby Programming Language - Full Course",
+        "providedBy": "freeCodeCamp.org",
+        "platform":"Youtube",
+        "duration": "4 hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/t_ispmWmdjY"
      }
 
 
