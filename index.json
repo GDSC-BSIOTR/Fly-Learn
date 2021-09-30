@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "courseTopic": "Java",
+        "courseTitle": "Java Full Course | Java Tutorial for Beginners | Java Online Training | Edureka",
+        "providedBy": "Edureka",
+        "platform":"Youtube",
+        "duration": "10hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=hBh_CC5y8-s"
+    },
+
+    {
+        "id": 2,
+        "courseTopic": "Java",
+        "courseTitle": "Java Tutorials For Beginners In Hindi",
+        "crovidedBy": "CodeWithHarry",
+        "platform":"Youtube",
+        "duration": "2months",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
+    },
+
+    {
+        "id": 3,
+        "courseTopic": "Python",
+        "courseTitle": "Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka",
+        "providedBy": "Edureka",
+        "platform":"Youtube",
+        "duration": "11hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=WGJJIrtnfpk"
+    }
+]
