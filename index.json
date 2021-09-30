@@ -31,4 +31,15 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=WGJJIrtnfpk"
     }
+    
+    {
+        "id": 4,
+        "courseTopic": "python",
+        "courseTitle": "Learn Python - Full Course for Beginners [Tutorial]",
+        "crovidedBy": "freeCodeCamp.org",
+        "platform":"Youtube",
+        "duration": "4hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    },
 ]
