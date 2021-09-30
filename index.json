@@ -113,6 +113,17 @@
         "duration": "8hr",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=Oe421EPjeBE&t=23311s&ab_channel=freeCodeCamp.org"
+     },
+    {
+        "id": 10,
+        "courseTopic": "Golang",
+        "courseTitle": "Go: The Complete Developer's Guide (Golang)",
+        "providedBy": "Udemy",
+        "platform":"Udemy",
+        "duration": "9hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.udemy.com/course/go-the-complete-developers-guide/"
      }
+
 
 ]
