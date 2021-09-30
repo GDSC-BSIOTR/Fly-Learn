@@ -93,6 +93,26 @@
         "duration": "3.5hr",
         "domains": ["", "", ""],
         "link": "https://youtu.be/BwuLxPH8IDs"
+     },
+     {
+        "id": 10,
+        "courseTopic": "React",
+        "courseTitle": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "providedBy": "Maximilian Schwarzmüller",
+        "platform":"Udemy",
+        "duration": "47.5hr",
+        "domains": ["", "", ""],
+        "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+     },
+     {
+        "id": 11,
+        "courseTopic": "Node.js and Express.js",
+        "courseTitle": "Node.js and Express.js - Full Course",
+        "platform":"Udemy",
+        "providedBy": "John Smilga",
+        "duration": "8hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=Oe421EPjeBE&t=23311s&ab_channel=freeCodeCamp.org"
      }
 
 ]
