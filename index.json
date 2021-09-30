@@ -164,5 +164,15 @@
         "duration": "18 hrs",
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
-     }
+     },
+{
+        "id": 19,
+        "courseTopic": "Web development",
+        "courseTitle": "Introduction to HTML, CSS, JavaScript & How websites work? | Web Development Tutorials ",
+        "providedBy": "CodeWithHarry",
+        "platform":"Youtube",
+        "duration": "100hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=6mbwJ2xhgzM&list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg"
+    },
 ]
