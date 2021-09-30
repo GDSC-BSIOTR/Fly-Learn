@@ -164,6 +164,16 @@
         "duration": "18 hrs",
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
-     }
+     },
+{
+        "id": 19,
+        "courseTopic": "AWS cloud",
+        "courseTitle": "AWS Tutorial for beginners in Hindi | AWS Full Course Hindi - Learn AWS In 5 Hours | Great Learning",
+        "providedBy": "Great Learning",
+        "platform":"Youtube",
+        "duration": "5hr",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/dDN-t69sa3U"
+    },
 
 ]
