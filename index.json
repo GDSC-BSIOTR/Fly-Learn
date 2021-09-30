@@ -164,6 +164,16 @@
         "duration": "18 hrs",
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
+     },
+  {
+        "id": 19,
+        "courseTopic": "User Interface in Android",
+        "courseTitle": "Android Basics user interface ",
+        "providedBy": "udacity",
+        "platform":"udacity",
+        "duration": "10 hrs",
+        "domains": ["Android Development", "User Interface", "User Experience"],
+        "link": "https://www.udacity.com/course/android-basics-user-interface--ud834"
      }
 
 ]
