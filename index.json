@@ -85,5 +85,16 @@
         "duration": "12hr",
         "domains": ["React", "D3"],
         "link": "https://www.youtube.com/watch?v=2LhoCfjm8R4"
+    },
+    
+    {
+        "id": 9,
+        "courseTopic": "Data Science",
+        "courseTitle": "Learn Data Science Tutorial - Full Course for Beginners",
+        "providedBy": "FreeCodeCamp",
+        "platform":"Youtube",
+        "duration": "6hr",
+        "domains": ["", ""],
+        "link": "https://www.youtube.com/watch?v=ua-CiDNNj30"
     }
 ]
