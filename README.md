@@ -4,8 +4,8 @@ Free courses for developers
 
 ## How to contribute ?
 
-### 1. Reasearch data you want to contribute like course topic, provided by, platform, etc.
-### 1. Copy the example from below and fill your research in respected coloum.
+### 1. Research data you want to contribute like course topic, provided by, platform, etc.
+### 1. Copy the example from below and fill your research in respected coloum in json file.
 ### 3. Recheck your code and push request. (wrong syntex code can be rejected)
 ### 4. You done with your contribution, celebrate!!
 
