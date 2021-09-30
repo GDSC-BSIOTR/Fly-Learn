@@ -93,6 +93,16 @@
         "duration": "3.5hr",
         "domains": ["", "", ""],
         "link": "https://youtu.be/BwuLxPH8IDs"
+     },
+    {
+        "id": 10,
+        "courseTopic": "Golang",
+        "courseTitle": "Go: The Complete Developer's Guide (Golang)",
+        "providedBy": "Udemy",
+        "platform":"Udemy",
+        "duration": "9hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.udemy.com/course/go-the-complete-developers-guide/"
      }
 
 
