@@ -32,6 +32,7 @@
         "link": "https://www.youtube.com/watch?v=WGJJIrtnfpk"
     },
     
+    
     {
         "id": 4,
         "courseTopic": "python",
@@ -52,5 +53,15 @@
         "duration": "6hr",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+    },
+    {
+        "id": 6,
+        "courseTopic": "Dart",
+        "courseTitle": "Dart Programming Tutorial - Full Course",
+        "providedBy": "freeCodeCamp.org ",
+        "platform":"Youtube",
+        "duration": "2hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
     }
 ]
