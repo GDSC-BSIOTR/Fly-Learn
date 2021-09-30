@@ -41,5 +41,16 @@
         "duration": "4hr",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    },
+    
+     {
+        "id": 5,
+        "courseTopic": "python",
+        "courseTitle": "Python Tutorial - Python for Beginners [Full Course]",
+        "providedBy": "Programming with Mosh ",
+        "platform":"Youtube",
+        "duration": "6hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
     }
 ]
