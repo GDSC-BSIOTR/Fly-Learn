@@ -164,16 +164,6 @@
         "duration": "18 hrs",
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
-     },
-
-    {
-        "id": 18,
-        "courseTopic": "Python",
-        "courseTitle": "Python Full Course - Learn Python in 12 Hours",
-        "providedBy": "Edureka",
-        "platform":"YouTube",
-        "duration": "12 hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=WGJJIrtnfpk"
      }
+
 ]
