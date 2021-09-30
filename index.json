@@ -134,6 +134,17 @@
         "domains": ["", "", ""],
         "link": "https://youtu.be/vLnPwxZdW4Y"
      }
+    
+    {
+        "id": 16,
+        "courseTopic": "Javascript",
+        "courseTitle": "JavaScript Tutorial In Hindi",
+        "providedBy": "YouTube",
+        "platform":"YouTube",
+        "duration": "4 hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/hKB-YGF14SY"
+     }
 
 
 ]
