@@ -73,9 +73,19 @@
         "duration": "4hr",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-    },
-     {
+    },    
+    {
         "id": 8,
+        "courseTopic": "Data Visualisation",
+        "courseTitle": "Data Visualization with D3, JavaScript, React - Full Course [2021]",
+        "providedBy": "FreeCodeCamp",
+        "platform":"Youtube",
+        "duration": "12hr",
+        "domains": ["React", "D3"],
+        "link": "https://www.youtube.com/watch?v=2LhoCfjm8R4"
+    },
+       {
+        "id": 9,
         "courseTopic": "TypeScript",
         "courseTitle": "TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
         "providedBy": "Academind",
@@ -83,5 +93,6 @@
         "duration": "3.5hr",
         "domains": ["", "", ""],
         "link": "https://youtu.be/BwuLxPH8IDs"
-    }
+     }
+
 ]
