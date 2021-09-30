@@ -123,6 +123,16 @@
         "duration": "9hrs",
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/course/go-the-complete-developers-guide/"
+     },
+    {
+        "id": 15,
+        "courseTopic": "CPP",
+        "courseTitle": "C++ Tutorial for Beginners - Full Course",
+        "providedBy": "YouTube",
+        "platform":"YouTube",
+        "duration": "4 hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/vLnPwxZdW4Y"
      }
 
 
