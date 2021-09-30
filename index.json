@@ -145,7 +145,7 @@
         "domains": ["", "", ""],
         "link": "https://youtu.be/hKB-YGF14SY"
      },
- {
+     {
         "id": 17,
         "courseTopic": "Augmented Reality",
         "courseTitle": "Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
@@ -155,6 +155,4 @@
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/share/101Wy4/"
      }
-
-
 ]
