@@ -342,6 +342,7 @@
         "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
 
 },
+
 { 
         "id": 35,
         "courseTopic": "Data Structures",
@@ -352,5 +353,16 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"
 
-}
+},
+
+{
+        "id": 36,
+        "courseTopic": "Programming",
+        "courseTitle": "Introduction to programming",
+        "crovidedBy": "Free code camp",
+        "platform":"Youtube",
+        "duration": "2 hours",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=zOjov-2OZ0E"
+    }
 ]
