@@ -273,8 +273,20 @@
         "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
 
 },
+
+{ 
+        "id": 29,
+        "courseTopic": "C# Programming",
+        "courseTitle": "c# Tutorial for Beginners",
+        "providedBy": "Code with harry",
+        "platform":"Youtube",
+        "duration": "2 days",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/nknwAOtmtDk"
+
+
 {
-    "id": 29,
+    "id": 30,
         "courseTopic": "CSS",
         "courseTitle": "CSS Tutorial for Beginners in Hindi",
         "providedBy": "Code with harry",
@@ -282,9 +294,10 @@
         "duration": "1 days",
         "domains": ["", "", ""],
         "link": "https://youtu.be/Edsxf_NBFrw"
+
 },
 {
-     "id": 30,
+     "id": 31,
         "courseTopic": "Quantum Computing",
         "courseTitle": "How it works: Quantum Computing?",
         "providedBy": "IBM",
@@ -293,4 +306,17 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=WVv5OAR4Nik"
 },
+
+{ 
+        "id": 32,
+        "courseTopic": "Ruby",
+        "courseTitle": "Ruby Programming Language - Full Course",
+        "providedBy": "freeCodeCamp.org",
+        "platform":"Youtube",
+        "duration": "4hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
+
+}
+
 ]
