@@ -341,5 +341,16 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
 
+},
+{ 
+        "id": 35,
+        "courseTopic": "Data Structures",
+        "courseTitle": "Data Structures",
+        "providedBy": "Neso Academy",
+        "platform":"Youtube",
+        "duration": "1 week",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"
+
 }
 ]
