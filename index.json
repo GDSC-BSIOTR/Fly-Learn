@@ -197,6 +197,16 @@
     },
 {
         "id": 22,
+        "courseTopic": "Ruby on Rails",
+        "courseTitle": "Learn Ruby on Rails - Full Course",
+        "providedBy": "FreeCodeCamp",
+        "platform":"YouTube",
+        "duration": "4hr",
+        "domains": ["Web", "Ruby", "Ruby on Rails"],
+        "link": "https://www.youtube.com/watch?v=fmyvWz5TUWg"
+},
+{
+  "id": 23
         "courseTopic": "Django Tutorial",
         "courseTitle": "Django Tutorial for Beginners",
         "providedBy": "Telusko",
