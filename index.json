@@ -227,8 +227,20 @@
         "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
     },
 
+{
+  "id": 25,
+        "courseTopic": " C Language",
+        "courseTitle": "C Programming For Beginners - Master the C Language",
+        "providedBy": "Jason Fadin",
+        "platform":"Udemy",
+        "duration": "24 hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.udemy.com/course/c-programming-for-beginners-/"
+},
+
+
  {
-        "id": 25,
+        "id": 26,
         "courseTopic": " C Programming Tutorial",
         "courseTitle": "C Programming Tutorial for Beginners",
         "providedBy": "FreeCodeCamp.Org",
@@ -240,7 +252,7 @@
 
 
  {
-        "id": 26,
+        "id": 27,
         "courseTopic": "Github",
         "courseTitle": "Git and Github Tutorials for Beginners!",
         "providedBy": "TheCodex",
@@ -251,7 +263,7 @@
   },
 
 { 
-    "id": 27,
+        "id": 28,
         "courseTopic": "C# Programming",
         "courseTitle": "c# Tutorial for Beginners",
         "providedBy": "Code with harry",
@@ -259,8 +271,6 @@
         "duration": "2 days",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
-    }
 
-
-
+}
 ]
