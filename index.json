@@ -133,6 +133,26 @@
         "duration": "4 hrs",
         "domains": ["", "", ""],
         "link": "https://youtu.be/vLnPwxZdW4Y"
+     },
+    {
+        "id": 16,
+        "courseTopic": "google cloud",
+        "courseTitle": "Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka",
+        "providedBy": "edureka",
+        "platform":"YouTube",
+        "duration": "8hrs",
+        "domains": ["cloud", "databeses"],
+        "link": "https://www.youtube.com/watch?v=IUU6OR8yHCc"
+     },
+    {
+        "id": 17,
+        "courseTopic": "google cloud",
+        "courseTitle": "Google Cloud Platform Full Course | Google Cloud Platform Tutorial | Cloud Computing | Simplilearn",
+        "providedBy": "Simplilearn",
+        "platform":"YouTube",
+        "duration": "4hrs",
+        "domains": ["cloud", "databeses"],
+        "link": "https://www.youtube.com/watch?v=dn9cSRImmVA"
      }
     
     {
