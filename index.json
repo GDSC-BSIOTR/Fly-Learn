@@ -225,6 +225,16 @@
         "duration": "3 days",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
-    }
+    },
+ {
+        "id": 25,
+        "courseTopic": " C Programming Tutorial",
+        "courseTitle": "C Programming Tutorial for Beginners",
+        "providedBy": "FreeCodeCamp.Org",
+        "platform":"Youtube",
+        "duration": "4hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/KJgsSFOSQv0"
+    },
 
 ]
