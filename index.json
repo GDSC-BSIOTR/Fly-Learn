@@ -228,6 +228,7 @@
     },
 {
   "id": 25
+
         "courseTopic": " C Language",
         "courseTitle": "C Programming For Beginners - Master the C Language",
         "providedBy": "Jason Fadin",
@@ -235,5 +236,14 @@
         "duration": "24 hrs",
         "domains": ["", "", ""],
         "link": "https://www.udemy.com/course/c-programming-for-beginners-/"
+},
+        "courseTopic": "C# Programming",
+        "courseTitle": "c# Tutorial for Beginners",
+        "providedBy": "Code with harry",
+        "platform":"Youtube",
+        "duration": "2 days",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
+
     }
 ]
