@@ -206,7 +206,7 @@
         "link": "https://www.youtube.com/watch?v=fmyvWz5TUWg"
 },
 {
-  "id": 23
+    "id": 23,
         "courseTopic": "Django Tutorial",
         "courseTitle": "Django Tutorial for Beginners",
         "providedBy": "Telusko",
@@ -217,7 +217,7 @@
     },
 
 {
-  "id": 24
+     "id": 24,
         "courseTopic": "C Programming",
         "courseTitle": "Why Learn C Programming Language? : C Tutorial In Hindi",
         "providedBy": "Code with harry",
@@ -226,6 +226,7 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
     },
+
  {
         "id": 25,
         "courseTopic": " C Programming Tutorial",
@@ -236,5 +237,30 @@
         "domains": ["", "", ""],
         "link": "https://youtu.be/KJgsSFOSQv0"
     },
+
+
+ {
+        "id": 26,
+        "courseTopic": "Github",
+        "courseTitle": "Git and Github Tutorials for Beginners!",
+        "providedBy": "TheCodex",
+        "platform":"Youtube",
+        "duration": "51 minutes, 9 seconds",
+        "domains": ["", "", ""],
+        "link": "https://youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg"
+  },
+
+{ 
+    "id": 27,
+        "courseTopic": "C# Programming",
+        "courseTitle": "c# Tutorial for Beginners",
+        "providedBy": "Code with harry",
+        "platform":"Youtube",
+        "duration": "2 days",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
+    }
+
+
 
 ]
