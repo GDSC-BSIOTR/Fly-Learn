@@ -194,5 +194,15 @@
         "duration": "5hr",
         "domains": ["", "", ""],
         "link": "https://youtu.be/dDN-t69sa3U"
+    },
+{
+        "id": 22,
+        "courseTopic": "Django Tutorial",
+        "courseTitle": "Django Tutorial for Beginners",
+        "providedBy": "Telusko",
+        "platform":"Youtube",
+        "duration": "3hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/OTmQOjsl0eg"
     }
 ]
