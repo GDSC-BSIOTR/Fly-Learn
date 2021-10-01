@@ -214,5 +214,17 @@
         "duration": "3hrs",
         "domains": ["", "", ""],
         "link": "https://youtu.be/OTmQOjsl0eg"
+    },
+
+{
+  "id": 24
+        "courseTopic": "C Programming",
+        "courseTitle": "Why Learn C Programming Language? : C Tutorial In Hindi",
+        "providedBy": "Code with harry",
+        "platform":"Youtube",
+        "duration": "3 days",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
     }
+
 ]
