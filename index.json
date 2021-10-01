@@ -317,6 +317,16 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
 
-}
+},
+{ 
+        "id": 33,
+        "courseTopic": "Ruby",
+        "courseTitle": "Ruby Programming Language - Full Course",
+        "providedBy": "freeCodeCamp.org",
+        "platform":"Youtube",
+        "duration": "4hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
 
+}
 ]
