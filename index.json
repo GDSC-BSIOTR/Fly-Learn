@@ -273,6 +273,7 @@
         "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
 
 },
+
 { 
         "id": 29,
         "courseTopic": "C# Programming",
@@ -282,6 +283,28 @@
         "duration": "2 days",
         "domains": ["", "", ""],
         "link": "https://youtu.be/nknwAOtmtDk"
+
+
+{
+    "id": 30,
+        "courseTopic": "CSS",
+        "courseTitle": "CSS Tutorial for Beginners in Hindi",
+        "providedBy": "Code with harry",
+        "platform":"Youtube",
+        "duration": "1 days",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/Edsxf_NBFrw"
+
+},
+{ 
+        "id": 31,
+        "courseTopic": "Ruby",
+        "courseTitle": "Ruby Programming Language - Full Course",
+        "providedBy": "freeCodeCamp.org",
+        "platform":"Youtube",
+        "duration": "4hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
 
 }
 ]
