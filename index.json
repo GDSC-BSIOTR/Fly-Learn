@@ -225,6 +225,16 @@
         "duration": "3 days",
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
-    }
+    },
+ {
+        "id": 26,
+        "courseTopic": "Github",
+        "courseTitle": "Git and Github Tutorials for Beginners!",
+        "providedBy": "TheCodex",
+        "platform":"Youtube",
+        "duration": "51 minutes, 9 seconds",
+        "domains": ["", "", ""],
+        "link": "https://youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg"
+  }
 
 ]
