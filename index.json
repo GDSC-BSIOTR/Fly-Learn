@@ -296,8 +296,19 @@
         "link": "https://youtu.be/Edsxf_NBFrw"
 
 },
+{
+     "id": 31,
+        "courseTopic": "Quantum Computing",
+        "courseTitle": "How it works: Quantum Computing?",
+        "providedBy": "IBM",
+        "platform":"Youtube",
+        "duration": "1 days",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=WVv5OAR4Nik"
+},
+
 { 
-        "id": 31,
+        "id": 32,
         "courseTopic": "Ruby",
         "courseTitle": "Ruby Programming Language - Full Course",
         "providedBy": "freeCodeCamp.org",
@@ -307,4 +318,5 @@
         "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
 
 }
+
 ]
