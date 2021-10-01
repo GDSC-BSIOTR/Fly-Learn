@@ -204,5 +204,15 @@
         "duration": "4hr",
         "domains": ["Web", "Ruby", "Ruby on Rails"],
         "link": "https://www.youtube.com/watch?v=fmyvWz5TUWg"
+},
+{
+  "id": 23
+        "courseTopic": "Django Tutorial",
+        "courseTitle": "Django Tutorial for Beginners",
+        "providedBy": "Telusko",
+        "platform":"Youtube",
+        "duration": "3hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/OTmQOjsl0eg"
     }
 ]
