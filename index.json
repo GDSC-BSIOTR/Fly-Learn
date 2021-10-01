@@ -272,5 +272,15 @@
         "domains": ["", "", ""],
         "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
 
+},
+{
+    "id": 29,
+        "courseTopic": "CSS",
+        "courseTitle": "CSS Tutorial for Beginners in Hindi",
+        "providedBy": "Code with harry",
+        "platform":"Youtube",
+        "duration": "1 days",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/Edsxf_NBFrw"
 }
 ]
