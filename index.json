@@ -1,400 +1,502 @@
 [
 
-    {
-        "id": 1,
-        "courseTopic": "Java",
-        "courseTitle": "Java Full Course | Java Tutorial for Beginners | Java Online Training | Edureka",
-        "providedBy": "Edureka",
-        "platform":"Youtube",
-        "duration": "10hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=hBh_CC5y8-s"
-    },
+   {
+      "id":1,
+      "courseTopic":"Java",
+      "courseTitle":"Java Full Course | Java Tutorial for Beginners | Java Online Training | Edureka",
+      "providedBy":"Edureka",
+      "platform":"Youtube",
+      "duration":"10hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=hBh_CC5y8-s"
+   },
+   {
+      "id":2,
+      "courseTopic":"Java",
+      "courseTitle":"Java Tutorials For Beginners In Hindi",
+      "crovidedBy":"CodeWithHarry",
+      "platform":"Youtube",
+      "duration":"2months",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
+   },
+   {
+      "id":3,
+      "courseTopic":"Python",
+      "courseTitle":"Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka",
+      "providedBy":"Edureka",
+      "platform":"Youtube",
+      "duration":"11hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=WGJJIrtnfpk"
+   },
+   {
+      "id":4,
+      "courseTopic":"python",
+      "courseTitle":"Learn Python - Full Course for Beginners [Tutorial]",
+      "crovidedBy":"freeCodeCamp.org",
+      "platform":"Youtube",
+      "duration":"4hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=rfscVS0vtbw"
+   },
+   {
+      "id":5,
+      "courseTopic":"python",
+      "courseTitle":"Python Tutorial - Python for Beginners [Full Course]",
+      "providedBy":"Programming with Mosh ",
+      "platform":"Youtube",
+      "duration":"6hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+   },
+   {
+      "id":6,
+      "courseTopic":"Dart",
+      "courseTitle":"Dart Programming Tutorial - Full Course",
+      "providedBy":"freeCodeCamp.org ",
+      "platform":"Youtube",
+      "duration":"2hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
+   },
+   {
+      "id":7,
+      "courseTopic":"Kotlin",
+      "courseTitle":"Kotlin Full Course - Learn Kotlin in 4 Hours | Kotlin Tutorial | Kotlin Android Tutorial | Edureka",
+      "providedBy":"edureka",
+      "platform":"Youtube",
+      "duration":"4hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+   },
+   {
+      "id":8,
+      "courseTopic":"Data Visualisation",
+      "courseTitle":"Data Visualization with D3, JavaScript, React - Full Course [2021]",
+      "providedBy":"FreeCodeCamp",
+      "platform":"Youtube",
+      "duration":"12hr",
+      "domains":[
+         "React",
+         "D3"
+      ],
+      "link":"https://www.youtube.com/watch?v=2LhoCfjm8R4"
+   },
+   {
+      "id":9,
+      "courseTopic":"TypeScript",
+      "courseTitle":"TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
+      "providedBy":"Academind",
+      "platform":"Youtube",
+      "duration":"3.5hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/BwuLxPH8IDs"
+   },
+   {
+      "id":10,
+      "courseTopic":"React",
+      "courseTitle":"React - The Complete Guide (incl Hooks, React Router, Redux)",
+      "providedBy":"Maximilian Schwarzmüller",
+      "platform":"Udemy",
+      "duration":"47.5hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+   },
+   {
+      "id":11,
+      "courseTopic":"Node.js and Express.js",
+      "courseTitle":"Node.js and Express.js - Full Course",
+      "platform":"Udemy",
+      "providedBy":"John Smilga",
+      "duration":"8hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=Oe421EPjeBE&t=23311s&ab_channel=freeCodeCamp.org"
+   },
+   {
+      "id":10,
+      "courseTopic":"Golang",
+      "courseTitle":"Go: The Complete Developer's Guide (Golang)",
+      "providedBy":"Udemy",
+      "platform":"Udemy",
+      "duration":"9hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.udemy.com/course/go-the-complete-developers-guide/"
+   },
+   {
+      "id":15,
+      "courseTopic":"CPP",
+      "courseTitle":"C++ Tutorial for Beginners - Full Course",
+      "providedBy":"YouTube",
+      "platform":"YouTube",
+      "duration":"4 hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/vLnPwxZdW4Y"
+   },
+   {
+      "id":16,
+      "courseTopic":"google cloud",
+      "courseTitle":"Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka",
+      "providedBy":"edureka",
+      "platform":"YouTube",
+      "duration":"8hrs",
+      "domains":[
+         "cloud",
+         "databeses"
+      ],
+      "link":"https://www.youtube.com/watch?v=IUU6OR8yHCc"
+   },
+   {
+      "id":17,
+      "courseTopic":"google cloud",
+      "courseTitle":"Google Cloud Platform Full Course | Google Cloud Platform Tutorial | Cloud Computing | Simplilearn",
+      "providedBy":"Simplilearn",
+      "platform":"YouTube",
+      "duration":"4hrs",
+      "domains":[
+         "cloud",
+         "databeses"
+      ],
+      "link":"https://www.youtube.com/watch?v=dn9cSRImmVA"
+   }{
+      "id":16,
+      "courseTopic":"Javascript",
+      "courseTitle":"JavaScript Tutorial In Hindi",
+      "providedBy":"YouTube",
+      "platform":"YouTube",
+      "duration":"4 hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/hKB-YGF14SY"
+   },
+   {
+      "id":17,
+      "courseTopic":"Augmented Reality",
+      "courseTitle":"Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
+      "providedBy":"Dinesh Tavasalkar",
+      "platform":"Udemy",
+      "duration":"18.5 hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/t_ispmWmdjY"
+   },
+   {
+      "id":18,
+      "courseTopic":"Augmented Reality",
+      "courseTitle":"Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
+      "providedBy":"Dinesh Tavasalkar",
+      "platform":"Udemy",
+      "duration":"18 hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.udemy.com/share/101Wy4/"
+   },
+   {
+      "id":19,
+      "courseTopic":"R programming",
+      "courseTitle":"R is a programming language and software environment for statistical analysis",
+      "providedBy":"Robert Gentleman and Ross Ihaka",
+      "platform":"Tutorial",
+      "duration":"6 hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.tutorialspoint.com/r/index.htm"
+   },
+   {
+      "id":20,
+      "courseTopic":"User Interface in Android",
+      "courseTitle":"Android Basics user interface ",
+      "providedBy":"udacity",
+      "platform":"udacity",
+      "duration":"10 hrs",
+      "domains":[
+         "Android Development",
+         "User Interface",
+         "User Experience"
+      ],
+      "link":"https://www.udacity.com/course/android-basics-user-interface--ud834"
+   },
+   {
+      "id":21,
+      "courseTopic":"AWS cloud",
+      "courseTitle":"AWS Tutorial for beginners in Hindi | AWS Full Course Hindi - Learn AWS In 5 Hours | Great Learning",
+      "providedBy":"Great Learning",
+      "platform":"Youtube",
+      "duration":"5hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/dDN-t69sa3U"
+   },
+   {
+      "id":22,
+      "courseTopic":"Ruby on Rails",
+      "courseTitle":"Learn Ruby on Rails - Full Course",
+      "providedBy":"FreeCodeCamp",
+      "platform":"YouTube",
+      "duration":"4hr",
+      "domains":[
+         "Web",
+         "Ruby",
+         "Ruby on Rails"
+      ],
+      "link":"https://www.youtube.com/watch?v=fmyvWz5TUWg"
+   },
+   {
+      "id":23,
+      "courseTopic":"Django Tutorial",
+      "courseTitle":"Django Tutorial for Beginners",
+      "providedBy":"Telusko",
+      "platform":"Youtube",
+      "duration":"3hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/OTmQOjsl0eg"
+   },
+   {
+      "id":24,
+      "courseTopic":"C Programming",
+      "courseTitle":"Why Learn C Programming Language? : C Tutorial In Hindi",
+      "providedBy":"Code with harry",
+      "platform":"Youtube",
+      "duration":"3 days",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
+   },
+   {
+      "id":25,
+      "courseTopic":" C Language",
+      "courseTitle":"C Programming For Beginners - Master the C Language",
+      "providedBy":"Jason Fadin",
+      "platform":"Udemy",
+      "duration":"24 hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.udemy.com/course/c-programming-for-beginners-/"
+   },
+   {
+      "id":26,
+      "courseTopic":" C Programming Tutorial",
+      "courseTitle":"C Programming Tutorial for Beginners",
+      "providedBy":"FreeCodeCamp.Org",
+      "platform":"Youtube",
+      "duration":"4hrs",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/KJgsSFOSQv0"
+   },
+   {
+      "id":27,
+      "courseTopic":"Github",
+      "courseTitle":"Git and Github Tutorials for Beginners!",
+      "providedBy":"TheCodex",
+      "platform":"Youtube",
+      "duration":"51 minutes, 9 seconds",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg"
+   },
+   {
+      "id":28,
+      "courseTopic":"C# Programming",
+      "courseTitle":"c# Tutorial for Beginners",
+      "providedBy":"Code with harry",
+      "platform":"Youtube",
+      "duration":"2 days",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=SuLiu5AK9Ps"
+   },
+   {
+      "id":29,
+      "courseTopic":"C# Programming",
+      "courseTitle":"c# Tutorial for Beginners",
+      "providedBy":"Code with harry",
+      "platform":"Youtube",
+      "duration":"2 days",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://youtu.be/nknwAOtmtDk"{
+         "id":30,
+         "courseTopic":"CSS",
+         "courseTitle":"CSS Tutorial for Beginners in Hindi",
+         "providedBy":"Code with harry",
+         "platform":"Youtube",
+         "duration":"1 days",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://youtu.be/Edsxf_NBFrw"
+      },
+      {
+         "id":31,
+         "courseTopic":"Quantum Computing",
+         "courseTitle":"How it works: Quantum Computing?",
+         "providedBy":"IBM",
+         "platform":"Youtube",
+         "duration":"1 days",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/watch?v=WVv5OAR4Nik"
+      },
+      {
+         "id":32,
+         "courseTopic":"Ruby",
+         "courseTitle":"Ruby Programming Language - Full Course",
+         "providedBy":"freeCodeCamp.org",
+         "platform":"Youtube",
+         "duration":"4hrs",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/watch?v=t_ispmWmdjY"
+      },
+      {
+         "id":33,
+         "courseTopic":"Django",
+         "courseTitle":"Django (3.0) Crash Course Tutorials | Customer Management App",
+         "providedBy":"Dennis Ivy",
+         "platform":"Youtube",
+         "duration":"9hrs",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO"
+      },
+      {
+         "id":34,
+         "courseTopic":"Ruby",
+         "courseTitle":"Ruby Programming Language - Full Course",
+         "providedBy":"freeCodeCamp.org",
+         "platform":"Youtube",
+         "duration":"4hrs",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/watch?v=t_ispmWmdjY"
+      },
+      {
+         "id":35,
+         "courseTopic":"Data Structures",
+         "courseTitle":"Data Structures",
+         "providedBy":"Neso Academy",
+         "platform":"Youtube",
+         "duration":"1 week",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"
+      },
+      {
+         "id":36,
+         "courseTopic":"Programming",
+         "courseTitle":"Introduction to programming",
+         "crovidedBy":"Free code camp",
+         "platform":"Youtube",
+         "duration":"2 hours",
+         "domains":[
+            "",
+            "",
+            ""        ],
+         "link":"https://www.youtube.com/watch?v=zOjov-2OZ0E"
+      }
+       
 
-    {
-        "id": 2,
-        "courseTopic": "Java",
-        "courseTitle": "Java Tutorials For Beginners In Hindi",
-        "crovidedBy": "CodeWithHarry",
-        "platform":"Youtube",
-        "duration": "2months",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q"
-    },
-
-    {
-        "id": 3,
-        "courseTopic": "Python",
-        "courseTitle": "Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka",
-        "providedBy": "Edureka",
-        "platform":"Youtube",
-        "duration": "11hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=WGJJIrtnfpk"
-    },
-    
-    
-    {
-        "id": 4,
-        "courseTopic": "python",
-        "courseTitle": "Learn Python - Full Course for Beginners [Tutorial]",
-        "crovidedBy": "freeCodeCamp.org",
-        "platform":"Youtube",
-        "duration": "4hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
-    },
-    
-     {
-        "id": 5,
-        "courseTopic": "python",
-        "courseTitle": "Python Tutorial - Python for Beginners [Full Course]",
-        "providedBy": "Programming with Mosh ",
-        "platform":"Youtube",
-        "duration": "6hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
-    },
-    {
-        "id": 6,
-        "courseTopic": "Dart",
-        "courseTitle": "Dart Programming Tutorial - Full Course",
-        "providedBy": "freeCodeCamp.org ",
-        "platform":"Youtube",
-        "duration": "2hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
-    },
-     {
-        "id": 7,
-        "courseTopic": "Kotlin",
-        "courseTitle": "Kotlin Full Course - Learn Kotlin in 4 Hours | Kotlin Tutorial | Kotlin Android Tutorial | Edureka",
-        "providedBy": "edureka",
-        "platform":"Youtube",
-        "duration": "4hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-    },    
-    {
-        "id": 8,
-        "courseTopic": "Data Visualisation",
-        "courseTitle": "Data Visualization with D3, JavaScript, React - Full Course [2021]",
-        "providedBy": "FreeCodeCamp",
-        "platform":"Youtube",
-        "duration": "12hr",
-        "domains": ["React", "D3"],
-        "link": "https://www.youtube.com/watch?v=2LhoCfjm8R4"
-    },
-       {
-        "id": 9,
-        "courseTopic": "TypeScript",
-        "courseTitle": "TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
-        "providedBy": "Academind",
-        "platform":"Youtube",
-        "duration": "3.5hr",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/BwuLxPH8IDs"
-     },
-     {
-        "id": 10,
-        "courseTopic": "React",
-        "courseTitle": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-        "providedBy": "Maximilian Schwarzmüller",
-        "platform":"Udemy",
-        "duration": "47.5hr",
-        "domains": ["", "", ""],
-        "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
-     },
-     {
-        "id": 11,
-        "courseTopic": "Node.js and Express.js",
-        "courseTitle": "Node.js and Express.js - Full Course",
-        "platform":"Udemy",
-        "providedBy": "John Smilga",
-        "duration": "8hr",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=Oe421EPjeBE&t=23311s&ab_channel=freeCodeCamp.org"
-     },
-    {
-        "id": 12,
-        "courseTopic": "Golang",
-        "courseTitle": "Go: The Complete Developer's Guide (Golang)",
-        "providedBy": "Udemy",
-        "platform":"Udemy",
-        "duration": "9hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.udemy.com/course/go-the-complete-developers-guide/"
-     },
-    {
-        "id": 13,
-        "courseTopic": "CPP",
-        "courseTitle": "C++ Tutorial for Beginners - Full Course",
-        "providedBy": "YouTube",
-        "platform":"YouTube",
-        "duration": "4 hrs",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/vLnPwxZdW4Y"
-     },
-    {
-        "id": 14,
-        "courseTopic": "google cloud",
-        "courseTitle": "Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka",
-        "providedBy": "edureka",
-        "platform":"YouTube",
-        "duration": "8hrs",
-        "domains": ["cloud", "databeses"],
-        "link": "https://www.youtube.com/watch?v=IUU6OR8yHCc"
-     },
-    {
-        "id": 15,
-        "courseTopic": "google cloud",
-        "courseTitle": "Google Cloud Platform Full Course | Google Cloud Platform Tutorial | Cloud Computing | Simplilearn",
-        "providedBy": "Simplilearn",
-        "platform":"YouTube",
-        "duration": "4hrs",
-        "domains": ["cloud", "databeses"],
-        "link": "https://www.youtube.com/watch?v=dn9cSRImmVA"
-     }
-    
-    {
-        "id": 16,
-        "courseTopic": "Javascript",
-        "courseTitle": "JavaScript Tutorial In Hindi",
-        "providedBy": "YouTube",
-        "platform":"YouTube",
-        "duration": "4 hrs",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/hKB-YGF14SY"
-     },
-     {
-        "id": 17,
-        "courseTopic": "Augmented Reality",
-        "courseTitle": "Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
-        "providedBy": "Dinesh Tavasalkar",
-        "platform":"Udemy",
-        "duration": "18.5 hrs",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/t_ispmWmdjY"
-     },
-     {
-        "id": 18,
-        "courseTopic": "Augmented Reality",
-        "courseTitle": "Build 15 Augmented Reality (AR) apps with Unity & Vuforia",
-        "providedBy": "Dinesh Tavasalkar",
-        "platform":"Udemy",
-        "duration": "18 hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.udemy.com/share/101Wy4/"
-     },
-{
-        "id": 19,
-        "courseTopic": "R programming",
-        "courseTitle": "R is a programming language and software environment for statistical analysis",
-        "providedBy": "Robert Gentleman and Ross Ihaka",
-        "platform":"Tutorial",
-        "duration": "6 hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.tutorialspoint.com/r/index.htm"
-     },
-  {
-        "id": 20,
-        "courseTopic": "User Interface in Android",
-        "courseTitle": "Android Basics user interface ",
-        "providedBy": "udacity",
-        "platform":"udacity",
-        "duration": "10 hrs",
-        "domains": ["Android Development", "User Interface", "User Experience"],
-        "link": "https://www.udacity.com/course/android-basics-user-interface--ud834"
-     },
-{
-        "id": 21,
-        "courseTopic": "AWS cloud",
-        "courseTitle": "AWS Tutorial for beginners in Hindi | AWS Full Course Hindi - Learn AWS In 5 Hours | Great Learning",
-        "providedBy": "Great Learning",
-        "platform":"Youtube",
-        "duration": "5hr",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/dDN-t69sa3U"
-    },
-{
-        "id": 22,
-        "courseTopic": "Ruby on Rails",
-        "courseTitle": "Learn Ruby on Rails - Full Course",
-        "providedBy": "FreeCodeCamp",
-        "platform":"YouTube",
-        "duration": "4hr",
-        "domains": ["Web", "Ruby", "Ruby on Rails"],
-        "link": "https://www.youtube.com/watch?v=fmyvWz5TUWg"
-},
-{
-    "id": 23,
-        "courseTopic": "Django Tutorial",
-        "courseTitle": "Django Tutorial for Beginners",
-        "providedBy": "Telusko",
-        "platform":"Youtube",
-        "duration": "3hrs",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/OTmQOjsl0eg"
-    },
-
-{
-     "id": 24,
-        "courseTopic": "C Programming",
-        "courseTitle": "Why Learn C Programming Language? : C Tutorial In Hindi",
-        "providedBy": "Code with harry",
-        "platform":"Youtube",
-        "duration": "3 days",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR"
-    },
-
-{
-  "id": 25,
-        "courseTopic": " C Language",
-        "courseTitle": "C Programming For Beginners - Master the C Language",
-        "providedBy": "Jason Fadin",
-        "platform":"Udemy",
-        "duration": "24 hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.udemy.com/course/c-programming-for-beginners-/"
-},
-
-
- {
-        "id": 26,
-        "courseTopic": " C Programming Tutorial",
-        "courseTitle": "C Programming Tutorial for Beginners",
-        "providedBy": "FreeCodeCamp.Org",
-        "platform":"Youtube",
-        "duration": "4hrs",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/KJgsSFOSQv0"
-    },
-
-
- {
-        "id": 27,
-        "courseTopic": "Github",
-        "courseTitle": "Git and Github Tutorials for Beginners!",
-        "providedBy": "TheCodex",
-        "platform":"Youtube",
-        "duration": "51 minutes, 9 seconds",
-        "domains": ["", "", ""],
-        "link": "https://youtube.com/playlist?list=PLB5jA40tNf3v1wdyYfxQXgdjPgQvP7Xzg"
-  },
-
-{ 
-        "id": 28,
-        "courseTopic": "C# Programming",
-        "courseTitle": "c# Tutorial for Beginners",
-        "providedBy": "Code with harry",
-        "platform":"Youtube",
-        "duration": "2 days",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=SuLiu5AK9Ps"
-
-},
-
-{ 
-        "id": 29,
-        "courseTopic": "C# Programming",
-        "courseTitle": "c# Tutorial for Beginners",
-        "providedBy": "Code with harry",
-        "platform":"Youtube",
-        "duration": "2 days",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/nknwAOtmtDk"
-
-
-{
-    "id": 30,
-        "courseTopic": "CSS",
-        "courseTitle": "CSS Tutorial for Beginners in Hindi",
-        "providedBy": "Code with harry",
-        "platform":"Youtube",
-        "duration": "1 days",
-        "domains": ["", "", ""],
-        "link": "https://youtu.be/Edsxf_NBFrw"
-
-},
-{
-     "id": 31,
-        "courseTopic": "Quantum Computing",
-        "courseTitle": "How it works: Quantum Computing?",
-        "providedBy": "IBM",
-        "platform":"Youtube",
-        "duration": "1 days",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=WVv5OAR4Nik"
-},
-
-{ 
-        "id": 32,
-        "courseTopic": "Ruby",
-        "courseTitle": "Ruby Programming Language - Full Course",
-        "providedBy": "freeCodeCamp.org",
-        "platform":"Youtube",
-        "duration": "4hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
-
-},
-
-{ 
-        "id": 33,
-        "courseTopic": "Django",
-        "courseTitle": "Django (3.0) Crash Course Tutorials | Customer Management App",
-        "providedBy": "Dennis Ivy",
-        "platform":"Youtube",
-        "duration": "9hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/playlist?list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO"
-
-},
-
-{ 
-        "id": 34,
-        "courseTopic": "Ruby",
-        "courseTitle": "Ruby Programming Language - Full Course",
-        "providedBy": "freeCodeCamp.org",
-        "platform":"Youtube",
-        "duration": "4hrs",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=t_ispmWmdjY"
-
-},
-
-{ 
-        "id": 35,
-        "courseTopic": "Data Structures",
-        "courseTitle": "Data Structures",
-        "providedBy": "Neso Academy",
-        "platform":"Youtube",
-        "duration": "1 week",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y"
-
-},
-
-{
-        "id": 36,
-        "courseTopic": "Programming",
-        "courseTitle": "Introduction to programming",
-        "crovidedBy": "Free code camp",
-        "platform":"Youtube",
-        "duration": "2 hours",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=zOjov-2OZ0E"
-    },
-{
-        "id": 37,
-        "courseTopic": "Technology",
-        "courseTitle": "Introduction to AI",
-        "crovidedBy": "Free code camp",
-        "platform":"Youtube",
-        "duration": "5 hours",
-        "domains": ["", "", ""],
-        "link": "https://www.youtube.com/watch?v=JMUxmLyrhSk"
-    }
 ]
-
