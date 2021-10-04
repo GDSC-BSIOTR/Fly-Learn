@@ -497,6 +497,20 @@
             ""        ],
          "link":"https://www.youtube.com/watch?v=zOjov-2OZ0E"
       }
+  {
+         "id":35,
+         "courseTopic":"ML",
+         "courseTitle":"ML full course",
+         "providedBy":"freeCodeCamp.org",
+         "platform":"Youtube",
+         "duration":"5hrs",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/watch?v=IoZGSQ07e8g"
+      }
        
 
 ]
