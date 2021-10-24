@@ -496,8 +496,8 @@
             "",
             ""        ],
          "link":"https://www.youtube.com/watch?v=zOjov-2OZ0E"
-      }
-  {
+      },
+      {
          "id":35,
          "courseTopic":"ML",
          "courseTitle":"ML full course",
@@ -510,7 +510,20 @@
             ""
          ],
          "link":"https://www.youtube.com/watch?v=IoZGSQ07e8g"
+      },
+      {
+         "id":36,
+         "courseTopic":"React",
+         "courseTitle":"ReactJS Tutorial for Beginners",
+         "providedBy":"Codevolution",
+         "platform":"Youtube",
+         "duration":"8.5hrs",
+         "domains":[
+            "",
+            "",
+            ""
+         ],
+         "link":"https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
       }
-       
 
 ]
