@@ -525,5 +525,20 @@
          ],
          "link":"https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
       }
+{
+      "id":37,
+      "courseTopic":"Data structures and Algorithms",
+      "courseTitle":"Introduction to Data structures and Algorithms",
+      "crovidedBy":"CodeWithHarry",
+      "platform":"Youtube",
+      "duration":"31 min.42sec",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.youtube.com/watch?v=5_5oE5lgrhw"
+   },
+
 
 ]
