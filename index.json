@@ -540,7 +540,141 @@
       "link":"https://www.youtube.com/watch?v=5_5oE5lgrhw"
    },
 
-{
+    {
+        "id": 3,
+        "courseTopic": "Python",
+        "courseTitle": "Python Full Course - Learn Python in 12 Hours | Python Tutorial For Beginners | Edureka",
+        "providedBy": "Edureka",
+        "platform":"Youtube",
+        "duration": "11hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=WGJJIrtnfpk"
+    },
+    
+    
+    {
+        "id": 4,
+        "courseTopic": "python",
+        "courseTitle": "Learn Python - Full Course for Beginners [Tutorial]",
+        "crovidedBy": "freeCodeCamp.org",
+        "platform":"Youtube",
+        "duration": "4hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=rfscVS0vtbw"
+    },
+    
+     {
+        "id": 5,
+        "courseTopic": "python",
+        "courseTitle": "Python Tutorial - Python for Beginners [Full Course]",
+        "providedBy": "Programming with Mosh ",
+        "platform":"Youtube",
+        "duration": "6hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=_uQrJ0TkZlc"
+    },
+    {
+        "id": 6,
+        "courseTopic": "Dart",
+        "courseTitle": "Dart Programming Tutorial - Full Course",
+        "providedBy": "freeCodeCamp.org ",
+        "platform":"Youtube",
+        "duration": "2hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=Ej_Pcr4uC2Q"
+    },
+     {
+        "id": 7,
+        "courseTopic": "Kotlin",
+        "courseTitle": "Kotlin Full Course - Learn Kotlin in 4 Hours | Kotlin Tutorial | Kotlin Android Tutorial | Edureka",
+        "providedBy": "edureka",
+        "platform":"Youtube",
+        "duration": "4hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+    },    
+    {
+        "id": 8,
+        "courseTopic": "Data Visualisation",
+        "courseTitle": "Data Visualization with D3, JavaScript, React - Full Course [2021]",
+        "providedBy": "FreeCodeCamp",
+        "platform":"Youtube",
+        "duration": "12hr",
+        "domains": ["React", "D3"],
+        "link": "https://www.youtube.com/watch?v=2LhoCfjm8R4"
+    },
+       {
+        "id": 9,
+        "courseTopic": "TypeScript",
+        "courseTitle": "TypeScript Course for Beginners 2021 - Learn TypeScript from Scratch!",
+        "providedBy": "Academind",
+        "platform":"Youtube",
+        "duration": "3.5hr",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/BwuLxPH8IDs"
+     },
+     {
+        "id": 10,
+        "courseTopic": "React",
+        "courseTitle": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "providedBy": "Maximilian Schwarzmüller",
+        "platform":"Udemy",
+        "duration": "47.5hr",
+        "domains": ["", "", ""],
+        "link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/"
+     },
+     {
+        "id": 11,
+        "courseTopic": "Node.js and Express.js",
+        "courseTitle": "Node.js and Express.js - Full Course",
+        "platform":"Udemy",
+        "providedBy": "John Smilga",
+        "duration": "8hr",
+        "domains": ["", "", ""],
+        "link": "https://www.youtube.com/watch?v=Oe421EPjeBE&t=23311s&ab_channel=freeCodeCamp.org"
+     },
+    {
+        "id": 10,
+        "courseTopic": "Golang",
+        "courseTitle": "Go: The Complete Developer's Guide (Golang)",
+        "providedBy": "Udemy",
+        "platform":"Udemy",
+        "duration": "9hrs",
+        "domains": ["", "", ""],
+        "link": "https://www.udemy.com/course/go-the-complete-developers-guide/"
+     },
+    {
+        "id": 15,
+        "courseTopic": "CPP",
+        "courseTitle": "C++ Tutorial for Beginners - Full Course",
+        "providedBy": "YouTube",
+        "platform":"YouTube",
+        "duration": "4 hrs",
+        "domains": ["", "", ""],
+        "link": "https://youtu.be/vLnPwxZdW4Y"
+     },
+    {
+        "id": 16,
+        "courseTopic": "google cloud",
+        "courseTitle": "Google Cloud Platform Full Course | GCP Tutorial | Google Cloud Training | Edureka",
+        "providedBy": "edureka",
+        "platform":"YouTube",
+        "duration": "8hrs",
+        "domains": ["cloud", "databeses"],
+        "link": "https://www.youtube.com/watch?v=IUU6OR8yHCc"
+     },
+    {
+        "id": 17,
+        "courseTopic": "google cloud",
+        "courseTitle": "Google Cloud Platform Full Course | Google Cloud Platform Tutorial | Cloud Computing | Simplilearn",
+        "providedBy": "Simplilearn",
+        "platform":"YouTube",
+        "duration": "4hrs",
+        "domains": ["cloud", "databeses"],
+        "link": "https://www.youtube.com/watch?v=dn9cSRImmVA"
+     },
+   
+    {
       "id":38,
       "courseTopic":"Git And Github",
       "courseTitle":"Learn complete Git and Github in 1 video | Open-source Contribution | Linux commands & tricks",
@@ -554,6 +688,22 @@
       ],
       "link":"https://www.youtube.com/watch?v=uaeKhfhYE0U"
    },
+   { "id": "39',
+
+"courseTopic": "Kotlin",
+
+"courseTitle": "Kotlin Full Course - Learn Kotlin in 4 Hours | Kotlin Tutorial | Kotlin Android Tutorial | Edureka",
+
+"providedBy": "edureka",
+
+"platform":"Youtube",
+
+"duration": "4hr",
+
+"domains": ["", "", ""],
+
+"link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
+}
 
 
 ]
