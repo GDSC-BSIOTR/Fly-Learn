@@ -686,6 +686,7 @@
          "development",
          ""
       ],
+
       "link":"https://www.youtube.com/watch?v=uaeKhfhYE0U"
    },
    { "id": "39',
@@ -704,6 +705,15 @@
 
 "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
 }
-
+       {
+        "id": 40,
+        "courseTopic": "python from basic",
+        "courseTitle": "python zero to hero ",
+        "providedBy": "codewithharry",
+        "platform":"YouTube",
+        "duration": "12hrs",
+        "domains": ["python"],
+        "link": "https://youtu.be/gfDE2a7MKjA"
+     },
 
 ]
