@@ -703,7 +703,21 @@
 "domains": ["", "", ""],
 
 "link": "https://www.youtube.com/watch?v=OMxeOiPwAcQ"
-}
+},
+{
+      "id":42,
+      "courseTopic":"Business Analytics",
+      "courseTitle":"The Complete Business Analysis Fundamentals Course + CERT",
+      "providedBy":"Abayomi A.",
+      "platform":"Udemy",
+      "duration":"10.5hr",
+      "domains":[
+         "",
+         "",
+         ""
+      ],
+      "link":"https://www.udemy.com/course/business-analysis-certification/?utm_source=adwords&utm_medium=udemyads&utm_campaign=BusinessAnalysis_v.PROF_la.EN_cc.INDIA_ti.&utm_content=deal4584&utm_term=_._ag_118044962802_._ad_533157713989_._kw_best+courses+for+business+analyst_._de_c_._dm__._pl__._ti_kwd-298004464748_._li_1007789_._pd__._&matchtype=e"
+   }
 
 
 ]
